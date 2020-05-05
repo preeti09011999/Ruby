@@ -1,7 +1,7 @@
 m = ARGV[0].to_i;
 n = ARGV[1].to_i
 
-ARGV.clear();
+ARGV.clear(); 
 arr = []
 for i in (0..m-1)
     row = []
