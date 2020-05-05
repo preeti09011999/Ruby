@@ -3,7 +3,7 @@ def getss(str)
         bres = []
         bres.push(".")
         return bres
-    end
+    end 
     ch = str[0,1]
     #  next parameter => count
     ros = str[1,str.length-1]
