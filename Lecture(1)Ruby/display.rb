@@ -10,7 +10,7 @@ for i in (0..m-1)
     arr.push(row)
 end
 puts "***************************"
-def  display(arr)
+def  display(arr) 
     for i in (0..arr.length-1)
         print(arr[i])
         puts
