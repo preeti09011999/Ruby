@@ -3,7 +3,7 @@ n = ARGV[1].to_i;
 ARGV.clear();
 arr = []
 for i in (0..m-1)
-    row = []
+    row = [] 
     for j in (0..n-1)
         val = gets.chomp.to_i;
         row.push(val)
