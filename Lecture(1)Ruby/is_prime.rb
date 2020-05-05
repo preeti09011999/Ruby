@@ -8,7 +8,7 @@ def is_prime(num)
     end
     return true
 end
-# res = is_prime(3)
+# res = is_prime(3) 
 # if(res == true)
 #     puts "Number is prime"
 # 
